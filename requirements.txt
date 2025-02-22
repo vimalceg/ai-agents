@@ -1,0 +1,8 @@
+# Add your project dependencies here, one per line
+transformers
+waitress
+langchain 
+langchain-community 
+langchain-ollama
+langchain-openai
+notebook
